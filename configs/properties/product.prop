@@ -42,3 +42,6 @@ persist.sys.fw.bservice_enable?=true
 
 # Service reschedule
 persist.sys.am.reschedule_service=true
+
+# Elixir
+org.elixir.device=Poco M3 & Redmi 9T
